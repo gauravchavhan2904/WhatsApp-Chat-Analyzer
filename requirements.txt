@@ -2,3 +2,4 @@
 packaging==24.2
 urlextract
 wordcloud
+emoji
